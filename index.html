@@ -2,38 +2,54 @@
 <html>
 <head>
   <meta charset="UTF-8">
-  <title>Galeri Server HDX</title>
+  <title>Galeri HDX</title>
   <style>
-    body {
+    * {
       margin: 0;
-      padding: 20px;
-      font-family: sans-serif;
+      padding: 0;
+      box-sizing: border-box;
+    }
+    body {
       background: #111;
+      font-family: sans-serif;
       color: white;
-      text-align: center;
+      overflow-x: hidden;
     }
     h1 {
-      font-size: 24px;
-      margin-bottom: 20px;
+      text-align: center;
+      font-size: 32px;
+      margin: 20px 0;
     }
     .galeri {
       display: flex;
-      gap: 10px;
-      justify-content: center;
-      flex-wrap: wrap;
-      margin-bottom: 20px;
+      height: 100vh;
+      overflow: hidden;
     }
     .galeri img {
-      width: 180px;
-      aspect-ratio: 9 / 16;
-      object-fit: cover;
-      border-radius: 8px;
-      box-shadow: 0 0 8px rgba(0,0,0,0.5);
+      flex: 1;
+      height: 100vh;
+      width: auto;
+      object-fit: contain;
+      background: #000;
     }
-    p {
-      font-size: 14px;
-      margin: 0 20px;
+    .deskripsi {
+      text-align: center;
+      padding: 20px;
+      font-size: 16px;
       line-height: 1.6;
+    }
+    .copyright {
+      margin: 30px 0 0 0;
+      background: rgba(128, 0, 128, 0.5);
+      backdrop-filter: blur(8px);
+      padding: 10px;
+      text-align: center;
+      font-size: 14px;
+      border-radius: 8px;
+      width: 90%;
+      max-width: 400px;
+      margin-left: auto;
+      margin-right: auto;
     }
   </style>
 </head>
@@ -46,11 +62,14 @@
     <img src="images/server2.jpg" alt="Server 2">
   </div>
 
-  <p>
-    Server HDX menawarkan suasana survival yang asik dan seru!  
-    Kamu bisa main bareng temen, cari fitur keren, dan bikin base sepuasnya.  
-    Yuk gabung sekarang sebelum kehabisan slot!
-  </p>
+  <div class="deskripsi">
+    <p>Ini adalah tampilan server survival HDX yang seru dan keren.  
+    Ayo join dan rasakan pengalaman survival bareng komunitas asik!</p>
+  </div>
+
+  <div class="copyright">
+    &copy; 2025 Hand Exit - All Rights Reserved
+  </div>
 
 </body>
 </html>
