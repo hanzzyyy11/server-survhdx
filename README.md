@@ -1,8 +1,8 @@
 ![Moonrise logo](docs/media/favicon.ico) 
 
-# Survival Minecraft Server
+# Server Survival Minecraft HDX
 
-Hai, Selamat datang di website official 'Survival HDX'🌐, Tenang aja, Di server ini kamu bebas build😎, pvp🥶, grief😲, xray😱, dan ngelakuin hal seru bersama teman-teman kamu, maupun member lain nya!
+Hai, Selamat datang di website official 'Survival HDX', Tenang aja, Di server ini kamu bebas build, pvp, grief, xray😱, dan ngelakuin hal seru bersama teman-teman kamu, maupun member lain nya!
 Jangan lupa ajak teman kamu bergabung ke server ini, Agar tambah rame!!🥰🔥.
 
 Features:
