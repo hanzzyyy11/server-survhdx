@@ -1,8 +1,9 @@
 ![Moonrise logo](docs/media/favicon.ico) 
 
-# Moonrise
+# Survival Minecraft Server
 
-A simple, lightweight, responsive landing page template for a Minecraft server. Integrates with Discord, Minecraft server status, and GitHub Pages to host a free website.
+Hai, Selamat datang di website official 'Survival HDX'🌐, Tenang aja, Di server ini kamu bebas build😎, pvp🥶, grief😲, xray😱, dan ngelakuin hal seru bersama teman-teman kamu, maupun member lain nya!
+Jangan lupa ajak teman kamu bergabung ke server ini, Agar tambah rame!!🥰🔥.
 
 Features:
 - Shows the server's Minecraft Java version automatically
@@ -14,9 +15,9 @@ Features:
 
 <br />
 
-[![Support Discord](https://img.shields.io/badge/Support%20Discord-▸-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://coffeebank.github.io/discord)
+[![Groups Whatsapp](https://chat.whatsapp.com/L3aMLYLok7OJ5ckkgvIshd?mode=ac_c)](https://discord.gg/qZtrxXKH)
 
-Demo: https://coffeebank.github.io/moonrise
+Call: wa.me/6285213345494
 
 ![CrispBuild demo](docs/media/demo01.jpg)
 
