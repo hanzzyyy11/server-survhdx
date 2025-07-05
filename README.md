@@ -1,1 +1,0 @@
-# serverku-survhdx
