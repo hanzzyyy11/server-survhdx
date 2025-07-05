@@ -1,0 +1,16 @@
+.mapartController,
+.sectionsPreviewSettingsMaterials {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.sectionsPreviewSettingsMaterials {
+  flex: 1;
+}
+
+.section {
+  padding: 0.3em;
+}
