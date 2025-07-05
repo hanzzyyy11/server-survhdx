@@ -17,7 +17,7 @@ Features:
 
 [![Groups Whatsapp](https://chat.whatsapp.com/L3aMLYLok7OJ5ckkgvIshd?mode=ac_c)](https://discord.gg/qZtrxXKH)
 
-Call: wa.me/6285213345494
+Tiktok: @server.survhdx
 
 ![CrispBuild demo](docs/media/demo01.jpg)
 
