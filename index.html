@@ -1,90 +1,49 @@
 <!DOCTYPE html>
-<html lang="id">
+<html lang="en"
+
 <head>
-  <meta charset="UTF-8">
-  <title>Galeri Server HDX</title>
-  <style>
-    * {
-      margin: 0;
-      padding: 0;
-      box-sizing: border-box;
-    }
-    body {
-      background: #111;
-      font-family: sans-serif;
-      color: white;
-      overflow-x: hidden;
-    }
-    .judul-galeri {
-      background: rgba(128, 0, 128, 0.5);
-      backdrop-filter: blur(8px);
-      -webkit-backdrop-filter: blur(8px);
-      padding: 20px;
-      text-align: center;
-      border-radius: 15px;
-      margin: 20px;
-    }
-    .judul-galeri h1 {
-      font-size: 50px;
-      color: white;
-      font-weight: bold;
-      margin: 0;
-    }
-    .galeri {
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      gap: 10px;
-      padding: 20px;
-      flex-wrap: wrap;
-    }
-    .galeri img {
-      height: 90vh;
-      width: auto;
-      border-radius: 10px;
-      object-fit: cover;
-      background: #000;
-    }
-    .deskripsi {
-      text-align: center;
-      padding: 20px;
-      font-size: 18px;
-      line-height: 1.6;
-    }
-    .copyright {
-      margin: 30px 0 20px 0;
-      background: rgba(128, 0, 128, 0.5);
-      backdrop-filter: blur(8px);
-      padding: 10px;
-      text-align: center;
-      font-size: 14px;
-      border-radius: 8px;
-      width: 90%;
-      max-width: 400px;
-      margin-left: auto;
-      margin-right: auto;
-    }
-  </style>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-widht, initial-scale=1.0">
+    <title>Server Survival HDX | handexit</title>
+    <link rel="stylesheet" href="style.css">
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
 </head>
+
 <body>
-
-  <div class="judul-galeri">
-    <h1>Galeri Server HDX</h1>
-  </div>
-
-  <div class="galeri">
-    <img src="images/server1.jpg" alt="Server 1">
-    <img src="images/server2.jpg" alt="Server 2">
-  </div>
-
-  <div class="deskripsi">
-    <p>Ini adalah tampilan server Survival HDX yang seru, asik, dan penuh petualangan!  
-    Ayo join bareng komunitasnya sekarang!</p>
-  </div>
-
-  <div class="copyright">
-    &copy; 2025 Hand Exit - All Rights Reserved
-  </div>
-
+  
+    <header class="header">
+        <a href="#" class="logo">Handexit.</a>
+        
+        <nav class="navbar">
+            <a href="#" class="active">Home</a>
+            <a href="#">About</a>
+            <a href="#">Services</a>
+            <a href="#">Portofolio</a>
+            <a href="#">Contact</a>
+        </nav>
+    </header>
+    
+    <section class="home">
+        <div class="home-content"
+            <h1>Hi, I I'm M.Farhan RJ</h1>
+            <h3>Owner Servers</h3>
+            <p>Dulunya Aku Sendiri Engga Tau Kenapa Aku Memutuskan Untuk Membuat Server, Tapi Pada Akhirnya Aku Buat HeHeHeHe</p>
+            <div class="btn-box">
+                <a href="#">Tentang Saya</a>
+                <a href="#">Server Saya</a>
+            </div>
+        </div>
+        
+        <div class="home-sci">
+            <a href="#"><i class='bx bxl-facebook'></i></a>
+            <a href="#"><i class='bx bxl-whatsapp'></i></a>
+            <a href="#"><i class='bx bxl-linkedin'></i></a>
+        </div>
+        
+        <span class="home-imgHover"></span>
+    </section>
+    
 </body>
+
 </html>
