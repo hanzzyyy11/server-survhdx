@@ -239,8 +239,7 @@ table {
 }
 
 body {
-    background-color: var(--background-color);
-    /* background-image: url("../images/background.png"); */
+    background: url("../images/bg.png") no-repeat center center fixed;
     background-size: cover;
     background-repeat: no-repeat;
     font-family: "Outfit", sans-serif;
