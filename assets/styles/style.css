@@ -1,6 +1,6 @@
 :root {
-    --main-color: rgb(94, 136, 73);
-    --main-color-dark: rgb(58, 88, 44);
+    --main-color: rgb(177, 102, 255);
+    --main-color-dark: rgb(117, 58, 199);
     --border-color: hsla(0, 0%, 100%, 0.349);
     --copy-ip-hover: rgba(255, 255, 255, 0.102);
     --copy-ip-click: rgba(255, 255, 255, 0.2);
