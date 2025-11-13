@@ -1,4 +1,4 @@
-# Minecraft Server Website
+# Web Server SurvHDX
 
 This is a simple website for a Minecraft server that you can use to display information about your server. It includes multiple buttons and the ability to copy your server's IP.
 
